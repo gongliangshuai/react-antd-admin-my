@@ -16,7 +16,7 @@
 Just clone the repo and install the necessary node modules:
 
 ```shell
-$ git clone https://github.com/fireyy/react-antd-admin
+$ git clone https://github.com/gongliangshuai/react-antd-admin-my.git
 $ cd react-antd-admin
 $ npm install
 $ npm start
@@ -30,4 +30,4 @@ $ npm run test
 =======
 # react-antd-admin-my
 react-antd后台管理前端框架
->>>>>>> dc55d99a82acc46d24e0384292e0628f0ccaffce
+

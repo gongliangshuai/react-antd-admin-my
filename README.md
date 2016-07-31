@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## React Ant.Design Admin UI
 
 ## Features
@@ -26,3 +27,7 @@ $ npm start
 ```shell
 $ npm run test
 ```
+=======
+# react-antd-admin-my
+react-antd后台管理前端框架
+>>>>>>> dc55d99a82acc46d24e0384292e0628f0ccaffce

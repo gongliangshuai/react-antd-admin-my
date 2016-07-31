@@ -1,0 +1,17 @@
+html,body{height:100%;margin:0;}/*需要添加高度控制，否则无法撑满整个屏幕*/
+body{
+display:-webkit-box;
+-webkit-box-orient:vertical;/*按照垂直方向上进行自适应处理*/
+}
+
+.ant-layout-aside {
+  display:-webkit-box;
+  min-height: 100%;
+  -webkit-box-flex:1;
+  
+}
+
+
+.ant-layout-main {
+  padding-top: 60px;
+}
